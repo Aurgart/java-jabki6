@@ -1,4 +1,4 @@
-package Bank_accounts;
+package bankaccounts;
 
 /* Класс SavingsAccount (наследует Account)Добавляет поле interestRate.
  *   Переопределите withdraw(): запрет на снятие больше 1000 единиц за раз.

@@ -1,4 +1,4 @@
-package Zoo;
+package zoo;
 
 /*
  *   Класс Parrot (наследует Animal)

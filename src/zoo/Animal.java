@@ -1,4 +1,4 @@
-package Zoo;
+package zoo;
 
 /*
  *   Базовый класс Animal с полями: name, age.

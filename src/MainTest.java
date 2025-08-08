@@ -1,22 +1,18 @@
-import Bank_accounts.Account;
-import Bank_accounts.CreditAccount;
-import Bank_accounts.SavingsAccount;
-import DeliverySystem.Drone;
-import DeliverySystem.Truck;
-import DeliverySystem.Vehicle;
-import Game.Warrior;
-import Game.Wizard;
-import Zoo.Animal;
-import Zoo.Lion;
-import Zoo.Parrot;
+import bankaccounts.Account;
+import bankaccounts.CreditAccount;
+import bankaccounts.SavingsAccount;
+import deliverysystem.Drone;
+import deliverysystem.Truck;
+import deliverysystem.Vehicle;
+import game.Warrior;
+import game.Wizard;
+import zoo.Animal;
+import zoo.Lion;
+import zoo.Parrot;
 import org.junit.jupiter.api.Test;
-
-import javax.swing.plaf.synth.SynthTreeUI;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /*
  * Cамостоятельная работа:

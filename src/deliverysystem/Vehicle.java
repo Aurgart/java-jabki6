@@ -1,4 +1,4 @@
-package DeliverySystem;
+package deliverysystem;
 
 /*
  *    Базовый класс Vehicle с полями: maxSpeed, cargoCapacity.

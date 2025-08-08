@@ -1,4 +1,4 @@
-package Zoo;
+package zoo;
 
 /*
  Класс Lion (наследует Animal)

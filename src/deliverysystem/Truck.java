@@ -1,4 +1,4 @@
-package DeliverySystem;
+package deliverysystem;
 
 /*
  *    Класс Truck (наследует Vehicle)

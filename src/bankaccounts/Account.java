@@ -1,4 +1,4 @@
-package Bank_accounts;
+package bankaccounts;
 
 public class Account {
     double balance;
@@ -6,8 +6,8 @@ public class Account {
      *   Методы:- deposit(double amount) (пополнение),- withdraw(double amount) (снятие, не может уйти в минус),- displayInfo() (выводит номер счета и баланс).*/
     private int accountNumber;
 
-    public Account(int number) {
-        this.accountNumber = number;
+    public Account(int accountNumber) {
+        this.accountNumber = accountNumber;
         this.balance = 0;
     }
 

@@ -1,4 +1,4 @@
-package DeliverySystem;
+package deliverysystem;
 
 /*
  *    Класс Drone (наследует Vehicle)

@@ -1,4 +1,4 @@
-package Bank_accounts;
+package bankaccounts;
 
 /*
  * Класс CreditAccount (наследует Account) Добавляет поле creditLimit.
