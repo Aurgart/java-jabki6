@@ -40,8 +40,6 @@ public class Account {
 
     /**
      * кто богатенький?
-     *
-     * @return
      */
     public void displayInfo() {
         System.out.println("Номер: " + this.accountNumber + " Баланс: " + this.balance);

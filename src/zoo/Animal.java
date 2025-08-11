@@ -5,8 +5,8 @@ package zoo;
  *   Методы:- makeSound() (выводит "Издает звук"),- eat() (выводит "[name] ест").
  */
 public class Animal {
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     public Animal(String name, int age) {
         this.name = name;

@@ -5,8 +5,8 @@ package deliverysystem;
  *    Метод deliver(String destination) выводит: "Доставка в [destination]".
  */
 public class Vehicle {
-    int maxSpeed;
-    int cargoCapacity;
+    private int maxSpeed;
+    private int cargoCapacity;
 
     public Vehicle(int maxSpeed, int cargoCapacity) {
         this.maxSpeed = maxSpeed;
